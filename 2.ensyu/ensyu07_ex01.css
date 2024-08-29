@@ -1,0 +1,21 @@
+table{
+  font-size: 1.2rem;
+  border: 1px solid #000000;
+  border-collapse: collapse;
+}
+table th{
+  background: #f2ff00;
+  border: 1px solid #000000;
+  border-collapse: collapse;
+}
+
+th{
+  padding:  10px;
+  text-align: left;
+}
+
+td{
+  border: 1px solid #000000;
+  border-collapse: collapse;
+  padding: 10px;
+}
